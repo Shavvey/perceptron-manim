@@ -1,3 +1,4 @@
 # Ignore all pre-compiled byte-code
 **/__pycache__/*
 **/*.pyc
+**/media/*
